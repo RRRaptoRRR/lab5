@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "name": "Titanic",
+    "coordinates": {
+      "x": 23.1,
+      "y": -862
+    },
+    "creationDate": "2023-04-30",
+    "oscarsCount": 2,
+    "movieGenre": "HORROR",
+    "mpaaRating": "G",
+    "director": {
+      "name": "Clown",
+      "weight": 87.1,
+      "hairColor": "RED",
+      "location": {
+        "x": 25.1,
+        "y": 96.4,
+        "name": "Russia"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "1",
+    "coordinates": {
+      "x": 0.0,
+      "y": 0
+    },
+    "creationDate": "2023-04-30",
+    "oscarsCount": 100,
+    "movieGenre": "HORROR",
+    "mpaaRating": "G",
+    "director": {
+      "name": "9",
+      "weight": 9.0,
+      "hairColor": "RED",
+      "location": {
+        "x": 0.0,
+        "y": 9.0,
+        "name": "itmo"
+      }
+    }
+  }
+]
